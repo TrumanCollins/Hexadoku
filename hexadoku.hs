@@ -16,7 +16,7 @@
 --
 -- By Truman Collins
 -- June 2015 - October 2015
--- February 2019 -
+-- February 2019 - June 2019
 -- 
 
 -- The following packages are needed to compile this:
